@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CoreJava.iml" filepath="$PROJECT_DIR$/CoreJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jsonJava/jsonJava.iml" filepath="$PROJECT_DIR$/jsonJava/jsonJava.iml" />
     </modules>
   </component>
 </project>
